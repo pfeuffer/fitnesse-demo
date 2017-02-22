@@ -60,7 +60,7 @@
 							<fitNesseUpdatePrevents>true</fitNesseUpdatePrevents>
 							<writeSurefireReports>true</writeSurefireReports>
 							<suites>
-								<suite>FitNesseDemoSuite</suite>
+								<suite>FitNesseDemo</suite>
 							</suites>
 							<jvmArguments>
 								<jvmArgument>version=${project.version}</jvmArgument>
