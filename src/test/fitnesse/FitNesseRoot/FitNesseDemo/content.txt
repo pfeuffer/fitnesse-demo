@@ -1,0 +1,7 @@
+!1 !-FitNesse-!-Tests (Demo) !style_red[${version}]
+
+!contents -R2 -g -p -f -h
+
+!-<a target="_blank" href='http://www.fitnesse.org/FitNesse.UserGuide.QuickReferenceGuide'>FitNesse Cheat Sheet</a>-!
+
+!-<a target="_blank" href='?shutdown'>Shutdown FitNesse server</a>-!

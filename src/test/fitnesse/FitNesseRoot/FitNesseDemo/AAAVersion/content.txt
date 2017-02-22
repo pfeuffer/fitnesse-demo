@@ -1,0 +1,5 @@
+If this test fails, we are testing the wrong version!
+
+| Read Version     |
+| current version? |
+| ${version}       |

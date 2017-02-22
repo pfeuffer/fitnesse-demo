@@ -1,0 +1,10 @@
+!*> Java Stuff
+!include .
+
+!define COMMAND_PATTERN {java -XX:MaxPermSize=256m -Xmx512m -cp %p %m}
+
+|import|
+|de.pfeufferweb.fitnesse.demo|
+*!
+
+!include -c .FitNesseDemo.TestProperties

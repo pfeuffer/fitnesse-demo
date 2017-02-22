@@ -1,0 +1,13 @@
+.project
+.settings
+nb-configuration.xml
+target
+*.orig
+*.iml
+*.idea
+nbproject
+testResults
+.classpath
+src/test/fitnesse/FitNesseRoot/files
+src/test/fitnesse/FitNesseRoot/content.txt
+RecentChanges

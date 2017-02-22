@@ -1,0 +1,11 @@
+In this page one can config, which settings should be used.
+
+!1 User Configuration
+
+To config the user, the environment variables '''FITNESSE_USER''' and '''FITNESSE_PASSWORD''' have to be set.
+
+The configurations, that are used, will be displayed in the effective columns.
+
+| Server Configuration |
+| user | password | effective user? | effective password set? |
+|      |          | =~/.+/          | ok                      |
